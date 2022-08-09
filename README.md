@@ -1,11 +1,12 @@
 # MAUI-ransomware
 Indicators of Compromise 
 
-Filename	maui.exe
-	maui.log
-	maui.key
-	maui.evd
-	aui.exe
+Filename	
+maui.exe
+maui.log
+maui.key
+maui.evd
+aui.exe
 	
 MD5 Hash
 
